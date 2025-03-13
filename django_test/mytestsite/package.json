@@ -1,0 +1,13 @@
+{
+  "name": "django_local_library",
+  "version": "1.0.0",
+  "description": "Local Library website written in Django",
+  "main": "index.js",
+  "scripts": {
+    "start": "python manage.py runserver"
+  },
+  "author": "author",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
